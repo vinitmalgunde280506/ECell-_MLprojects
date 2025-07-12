@@ -1,0 +1,9 @@
+To install:
+speechrecognition
+pyaudio
+nltk
+pandas
+scikit-learn
+pipwin
+In built-
+threading
